@@ -1,8 +1,8 @@
 ---
-name: Feature Request
-about: Suggest a new feature
-title: "[Feature] 제목"
-labels: enhancement
+name: Bug Report
+about: Report a bug
+title: "[Bug] 제목"
+labels: bug
 assignees: ""
 ---
 
@@ -10,7 +10,7 @@ assignees: ""
 
 ## 설명
 
-어떤 기능을 추가하고 싶은지 간략히 설명해주세요.
+- 버그에 대해 설명해주세요.
 
 ## 작업 내용
 
